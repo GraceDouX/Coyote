@@ -111,6 +111,8 @@ Following configuration options are provided:
 | TLBL_A     | <**2**:>                 | TLB (huge) associativity                      |
 | TLBL_BITS  | <**21**:>                | TLB (huge) page order (2 MB def.)             |
 | EN_NRU     | <**0**:1>                | NRU policy                                    |
+| VIVADO_HLS_ROOT_DIR |                 | Path to vivado: /tools/Xilinx/Vivado/2019.1/bin         |
+| VIVADO_ROOT_DIR     |                 | path to vivado HLS: /tools/Xilinx/Vivado/2019.1/bin      |
 
 #### Create the shell and the project :
 ~~~~
